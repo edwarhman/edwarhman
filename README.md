@@ -4,7 +4,7 @@ I'm Emerson Warhman, a **Fullstack Developer with over 3 years of experience** s
 
 -----
 
-### 🔭 What I'm currently working on
+### 🔭 What I've worked on
 
 I am dedicated to creating efficient and scalable solutions that drive project success. My most recent work includes:
 
